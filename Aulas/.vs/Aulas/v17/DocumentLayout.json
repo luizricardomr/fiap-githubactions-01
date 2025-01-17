@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\luizmarinho.brq\\Desktop\\Estudo\\POS FIAP\\Fase2\\GitHubActions\\fiap-githubactions-01\\Aulas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4BCA36A-DC70-468C-84AD-F2E4CADCD9FC}|Aulas.csproj|c:\\users\\luizmarinho.brq\\desktop\\estudo\\pos fiap\\fase2\\githubactions\\fiap-githubactions-01\\aulas\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C4BCA36A-DC70-468C-84AD-F2E4CADCD9FC}|Aulas.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4BCA36A-DC70-468C-84AD-F2E4CADCD9FC}|Aulas.csproj|c:\\users\\luizmarinho.brq\\desktop\\estudo\\pos fiap\\fase2\\githubactions\\fiap-githubactions-01\\aulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4BCA36A-DC70-468C-84AD-F2E4CADCD9FC}|Aulas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\luizmarinho.brq\\Desktop\\Estudo\\POS FIAP\\Fase2\\GitHubActions\\fiap-githubactions-01\\Aulas\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\luizmarinho.brq\\Desktop\\Estudo\\POS FIAP\\Fase2\\GitHubActions\\fiap-githubactions-01\\Aulas\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-17T19:31:49.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luizmarinho.brq\\Desktop\\Estudo\\POS FIAP\\Fase2\\GitHubActions\\fiap-githubactions-01\\Aulas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\luizmarinho.brq\\Desktop\\Estudo\\POS FIAP\\Fase2\\GitHubActions\\fiap-githubactions-01\\Aulas\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T19:29:45.61Z",
               "EditorCaption": ""
