@@ -12,6 +12,13 @@ jobs:
   job01:
     runs-on: ubuntu-latest
     steps:    
-      - uses: actions/checkout@v4
-      - name: Run a one-line script
-        run: echo Primeiro Hello World no GitHub Actions!
+      - name: Step 1
+        uses: actions/checkout@v4
+      
+      - name: Docker Login
+        uses: docker/login-action@v3.3.0
+        with:
+          username: 'luizrmr'
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          
+        
